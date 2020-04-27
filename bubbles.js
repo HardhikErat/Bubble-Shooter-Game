@@ -31,7 +31,7 @@ function updateBubbles() {
             bb[i].y = 400
         }
 
-        fill(132, 112, 255, 45)
+        fill(232, 12, 55,100)
         stroke(255);
         ellipse(bb[i].x, bb[i].y, bbSize);
         pop();
